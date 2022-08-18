@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),5.80,PGAS
+1,Current PE Ratio (TTM),7.68,PGAS
+2,Forward PE Ratio,8.12,PGAS
+3,IHSG PE Ratio TTM (Median),8.47,PGAS
+4,Earnings Yield (TTM)(%),13.02%,PGAS
+5,Current Price to Sales (TTM),0.88,PGAS
+6,Current Price to Book Value,1.27,PGAS
+7,Current Price To Cashflow (TTM),0.64,PGAS
+8,Current Price To Free Cashflow (TTM),0.64,PGAS
+9,EV to EBIT (TTM),9.07,PGAS
+10,PEG Ratio,0.04,PGAS
+11,PEG Ratio (3yr),-12.80,PGAS
+12,PEG (Forward),-0.39,PGAS

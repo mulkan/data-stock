@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,GOTO
+1,Dividend (TTM),-,GOTO
+2,Payout Ratio (%),-,GOTO
+3,Dividend Yield (%),-,GOTO
+4,Latest Dividend Ex-Date,-,GOTO
+5,Latest Split Factor (From 2008),-,GOTO
+6,Latest Split Ex-Date,-,GOTO
+7,Latest Stock Bonus Factor (From 2008),-,GOTO
+8,Latest Stock Bonus Ex-Date,-,GOTO
+9,Latest Dividend Bonus Factor (From 2008),-,GOTO
+10,Latest Dividend Bonus Ex-Date,-,GOTO

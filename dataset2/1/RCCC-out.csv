@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,RCCC
+1,Current PE Ratio (TTM),-,RCCC
+2,Forward PE Ratio,-,RCCC
+3,IHSG PE Ratio TTM (Median),-,RCCC
+4,Earnings Yield (TTM)(%),-,RCCC
+5,Current Price to Sales (TTM),-,RCCC
+6,Current Price to Book Value,-,RCCC
+7,Current Price To Cashflow (TTM),-,RCCC
+8,Current Price To Free Cashflow (TTM),-,RCCC
+9,EV to EBIT (TTM),-,RCCC
+10,PEG Ratio,-,RCCC
+11,PEG Ratio (3yr),-,RCCC
+12,PEG (Forward),-,RCCC

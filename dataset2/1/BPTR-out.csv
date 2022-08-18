@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),16.23,BPTR
+1,Current PE Ratio (TTM),26.08,BPTR
+2,Forward PE Ratio,-,BPTR
+3,IHSG PE Ratio TTM (Median),8.47,BPTR
+4,Earnings Yield (TTM)(%),3.83%,BPTR
+5,Current Price to Sales (TTM),1.41,BPTR
+6,Current Price to Book Value,1.34,BPTR
+7,Current Price To Cashflow (TTM),0.08,BPTR
+8,Current Price To Free Cashflow (TTM),0.09,BPTR
+9,EV to EBIT (TTM),15.42,BPTR
+10,PEG Ratio,0.10,BPTR
+11,PEG Ratio (3yr),-3.44,BPTR
+12,PEG (Forward),-,BPTR

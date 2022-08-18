@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,DOID
+1,Dividend (TTM),-,DOID
+2,Payout Ratio (%),-,DOID
+3,Dividend Yield (%),-,DOID
+4,Latest Dividend Ex-Date,-,DOID
+5,Latest Split Factor (From 2008),2.00,DOID
+6,Latest Split Ex-Date,15 Apr 08,DOID
+7,Latest Stock Bonus Factor (From 2008),-,DOID
+8,Latest Stock Bonus Ex-Date,-,DOID
+9,Latest Dividend Bonus Factor (From 2008),-,DOID
+10,Latest Dividend Bonus Ex-Date,-,DOID

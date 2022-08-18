@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,RAFI
+1,Current PE Ratio (TTM),-,RAFI
+2,Forward PE Ratio,-,RAFI
+3,IHSG PE Ratio TTM (Median),-,RAFI
+4,Earnings Yield (TTM)(%),-,RAFI
+5,Current Price to Sales (TTM),-,RAFI
+6,Current Price to Book Value,-,RAFI
+7,Current Price To Cashflow (TTM),-,RAFI
+8,Current Price To Free Cashflow (TTM),-,RAFI
+9,EV to EBIT (TTM),-,RAFI
+10,PEG Ratio,-,RAFI
+11,PEG Ratio (3yr),-,RAFI
+12,PEG (Forward),-,RAFI

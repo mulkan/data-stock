@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,1.00,CINT
+1,Dividend (TTM),1.00,CINT
+2,Payout Ratio (%),-,CINT
+3,Dividend Yield (%),0.43%,CINT
+4,Latest Dividend Ex-Date,07 Jun 22,CINT
+5,Latest Split Factor (From 2008),-,CINT
+6,Latest Split Ex-Date,-,CINT
+7,Latest Stock Bonus Factor (From 2008),-,CINT
+8,Latest Stock Bonus Ex-Date,-,CINT
+9,Latest Dividend Bonus Factor (From 2008),-,CINT
+10,Latest Dividend Bonus Ex-Date,-,CINT

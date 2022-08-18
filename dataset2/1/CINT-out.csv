@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-45.96,CINT
+1,Current PE Ratio (TTM),-2.36,CINT
+2,Forward PE Ratio,-,CINT
+3,IHSG PE Ratio TTM (Median),8.47,CINT
+4,Earnings Yield (TTM)(%),-42.44%,CINT
+5,Current Price to Sales (TTM),0.75,CINT
+6,Current Price to Book Value,0.68,CINT
+7,Current Price To Cashflow (TTM),0.09,CINT
+8,Current Price To Free Cashflow (TTM),0.09,CINT
+9,EV to EBIT (TTM),-3.58,CINT
+10,PEG Ratio,-,CINT
+11,PEG Ratio (3yr),-0.02,CINT
+12,PEG (Forward),-,CINT

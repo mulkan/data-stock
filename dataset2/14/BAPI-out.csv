@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,BAPI
+1,Dividend (TTM),-,BAPI
+2,Payout Ratio (%),-,BAPI
+3,Dividend Yield (%),-,BAPI
+4,Latest Dividend Ex-Date,-,BAPI
+5,Latest Split Factor (From 2008),-,BAPI
+6,Latest Split Ex-Date,-,BAPI
+7,Latest Stock Bonus Factor (From 2008),-,BAPI
+8,Latest Stock Bonus Ex-Date,-,BAPI
+9,Latest Dividend Bonus Factor (From 2008),-,BAPI
+10,Latest Dividend Bonus Ex-Date,-,BAPI

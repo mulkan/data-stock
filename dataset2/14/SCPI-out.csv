@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,SCPI
+1,Dividend (TTM),-,SCPI
+2,Payout Ratio (%),-,SCPI
+3,Dividend Yield (%),-,SCPI
+4,Latest Dividend Ex-Date,-,SCPI
+5,Latest Split Factor (From 2008),-,SCPI
+6,Latest Split Ex-Date,-,SCPI
+7,Latest Stock Bonus Factor (From 2008),-,SCPI
+8,Latest Stock Bonus Ex-Date,-,SCPI
+9,Latest Dividend Bonus Factor (From 2008),-,SCPI
+10,Latest Dividend Bonus Ex-Date,-,SCPI

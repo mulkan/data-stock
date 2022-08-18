@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),6.74,AUTO
+1,Current PE Ratio (TTM),7.51,AUTO
+2,Forward PE Ratio,-,AUTO
+3,IHSG PE Ratio TTM (Median),8.47,AUTO
+4,Earnings Yield (TTM)(%),13.32%,AUTO
+5,Current Price to Sales (TTM),0.35,AUTO
+6,Current Price to Book Value,0.53,AUTO
+7,Current Price To Cashflow (TTM),0.48,AUTO
+8,Current Price To Free Cashflow (TTM),0.48,AUTO
+9,EV to EBIT (TTM),21.24,AUTO
+10,PEG Ratio,-,AUTO
+11,PEG Ratio (3yr),375.50,AUTO
+12,PEG (Forward),-,AUTO

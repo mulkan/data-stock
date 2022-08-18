@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),6.25,SIMP
+1,Current PE Ratio (TTM),6.32,SIMP
+2,Forward PE Ratio,-,SIMP
+3,IHSG PE Ratio TTM (Median),8.47,SIMP
+4,Earnings Yield (TTM)(%),15.82%,SIMP
+5,Current Price to Sales (TTM),0.39,SIMP
+6,Current Price to Book Value,0.47,SIMP
+7,Current Price To Cashflow (TTM),0.18,SIMP
+8,Current Price To Free Cashflow (TTM),0.19,SIMP
+9,EV to EBIT (TTM),5.19,SIMP
+10,PEG Ratio,0.02,SIMP
+11,PEG Ratio (3yr),0.05,SIMP
+12,PEG (Forward),-,SIMP

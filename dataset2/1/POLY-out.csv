@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),0.47,POLY
+1,Current PE Ratio (TTM),0.75,POLY
+2,Forward PE Ratio,-,POLY
+3,IHSG PE Ratio TTM (Median),8.47,POLY
+4,Earnings Yield (TTM)(%),132.87%,POLY
+5,Current Price to Sales (TTM),0.03,POLY
+6,Current Price to Book Value,-0.01,POLY
+7,Current Price To Cashflow (TTM),0.03,POLY
+8,Current Price To Free Cashflow (TTM),0.03,POLY
+9,EV to EBIT (TTM),47.64,POLY
+10,PEG Ratio,0.01,POLY
+11,PEG Ratio (3yr),-0.02,POLY
+12,PEG (Forward),-,POLY

@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),0.47,SCPI
+1,Current PE Ratio (TTM),0.71,SCPI
+2,Forward PE Ratio,-,SCPI
+3,IHSG PE Ratio TTM (Median),8.47,SCPI
+4,Earnings Yield (TTM)(%),141.03%,SCPI
+5,Current Price to Sales (TTM),0.05,SCPI
+6,Current Price to Book Value,0.10,SCPI
+7,Current Price To Cashflow (TTM),11.39,SCPI
+8,Current Price To Free Cashflow (TTM),11.43,SCPI
+9,EV to EBIT (TTM),0.29,SCPI
+10,PEG Ratio,-0.02,SCPI
+11,PEG Ratio (3yr),-0.32,SCPI
+12,PEG (Forward),-,SCPI

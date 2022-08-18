@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),6.50,DMAS
+1,Current PE Ratio (TTM),7.90,DMAS
+2,Forward PE Ratio,8.16,DMAS
+3,IHSG PE Ratio TTM (Median),8.47,DMAS
+4,Earnings Yield (TTM)(%),12.66%,DMAS
+5,Current Price to Sales (TTM),4.45,DMAS
+6,Current Price to Book Value,1.46,DMAS
+7,Current Price To Cashflow (TTM),0.07,DMAS
+8,Current Price To Free Cashflow (TTM),0.07,DMAS
+9,EV to EBIT (TTM),7.00,DMAS
+10,PEG Ratio,-0.17,DMAS
+11,PEG Ratio (3yr),0.61,DMAS
+12,PEG (Forward),-0.12,DMAS

@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,ELPI
+1,Current PE Ratio (TTM),-,ELPI
+2,Forward PE Ratio,-,ELPI
+3,IHSG PE Ratio TTM (Median),-,ELPI
+4,Earnings Yield (TTM)(%),-,ELPI
+5,Current Price to Sales (TTM),-,ELPI
+6,Current Price to Book Value,-,ELPI
+7,Current Price To Cashflow (TTM),-,ELPI
+8,Current Price To Free Cashflow (TTM),-,ELPI
+9,EV to EBIT (TTM),-,ELPI
+10,PEG Ratio,-,ELPI
+11,PEG Ratio (3yr),-,ELPI
+12,PEG (Forward),-,ELPI

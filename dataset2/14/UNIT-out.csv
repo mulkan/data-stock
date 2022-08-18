@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,UNIT
+1,Dividend (TTM),-,UNIT
+2,Payout Ratio (%),-,UNIT
+3,Dividend Yield (%),-,UNIT
+4,Latest Dividend Ex-Date,-,UNIT
+5,Latest Split Factor (From 2008),0.10,UNIT
+6,Latest Split Ex-Date,30 May 05,UNIT
+7,Latest Stock Bonus Factor (From 2008),-,UNIT
+8,Latest Stock Bonus Ex-Date,-,UNIT
+9,Latest Dividend Bonus Factor (From 2008),-,UNIT
+10,Latest Dividend Bonus Ex-Date,-,UNIT

@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,SWID
+1,Current PE Ratio (TTM),-,SWID
+2,Forward PE Ratio,-,SWID
+3,IHSG PE Ratio TTM (Median),-,SWID
+4,Earnings Yield (TTM)(%),-,SWID
+5,Current Price to Sales (TTM),-,SWID
+6,Current Price to Book Value,-,SWID
+7,Current Price To Cashflow (TTM),-,SWID
+8,Current Price To Free Cashflow (TTM),-,SWID
+9,EV to EBIT (TTM),-,SWID
+10,PEG Ratio,-,SWID
+11,PEG Ratio (3yr),-,SWID
+12,PEG (Forward),-,SWID

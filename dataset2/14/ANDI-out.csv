@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,ANDI
+1,Dividend (TTM),-,ANDI
+2,Payout Ratio (%),-,ANDI
+3,Dividend Yield (%),-,ANDI
+4,Latest Dividend Ex-Date,-,ANDI
+5,Latest Split Factor (From 2008),5.00,ANDI
+6,Latest Split Ex-Date,05 Nov 19,ANDI
+7,Latest Stock Bonus Factor (From 2008),-,ANDI
+8,Latest Stock Bonus Ex-Date,-,ANDI
+9,Latest Dividend Bonus Factor (From 2008),-,ANDI
+10,Latest Dividend Bonus Ex-Date,-,ANDI

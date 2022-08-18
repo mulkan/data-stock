@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,JARR
+1,Current PE Ratio (TTM),-,JARR
+2,Forward PE Ratio,-,JARR
+3,IHSG PE Ratio TTM (Median),-,JARR
+4,Earnings Yield (TTM)(%),-,JARR
+5,Current Price to Sales (TTM),-,JARR
+6,Current Price to Book Value,-,JARR
+7,Current Price To Cashflow (TTM),-,JARR
+8,Current Price To Free Cashflow (TTM),-,JARR
+9,EV to EBIT (TTM),-,JARR
+10,PEG Ratio,-,JARR
+11,PEG Ratio (3yr),-,JARR
+12,PEG (Forward),-,JARR

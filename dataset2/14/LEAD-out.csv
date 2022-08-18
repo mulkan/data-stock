@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,40.00,LEAD
+1,Dividend (TTM),-,LEAD
+2,Payout Ratio (%),-,LEAD
+3,Dividend Yield (%),-,LEAD
+4,Latest Dividend Ex-Date,08 Apr 15,LEAD
+5,Latest Split Factor (From 2008),4.00,LEAD
+6,Latest Split Ex-Date,19 May 15,LEAD
+7,Latest Stock Bonus Factor (From 2008),-,LEAD
+8,Latest Stock Bonus Ex-Date,-,LEAD
+9,Latest Dividend Bonus Factor (From 2008),-,LEAD
+10,Latest Dividend Bonus Ex-Date,-,LEAD

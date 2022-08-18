@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,INDX
+1,Dividend (TTM),-,INDX
+2,Payout Ratio (%),-,INDX
+3,Dividend Yield (%),-,INDX
+4,Latest Dividend Ex-Date,-,INDX
+5,Latest Split Factor (From 2008),0.10,INDX
+6,Latest Split Ex-Date,25 Aug 05,INDX
+7,Latest Stock Bonus Factor (From 2008),-,INDX
+8,Latest Stock Bonus Ex-Date,-,INDX
+9,Latest Dividend Bonus Factor (From 2008),-,INDX
+10,Latest Dividend Bonus Ex-Date,-,INDX

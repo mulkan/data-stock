@@ -1,0 +1,12 @@
+,0,1,3
+0,Dividend,-,BLTZ
+1,Dividend (TTM),-,BLTZ
+2,Payout Ratio (%),-,BLTZ
+3,Dividend Yield (%),-,BLTZ
+4,Latest Dividend Ex-Date,-,BLTZ
+5,Latest Split Factor (From 2008),2.00,BLTZ
+6,Latest Split Ex-Date,25 Jun 18,BLTZ
+7,Latest Stock Bonus Factor (From 2008),-,BLTZ
+8,Latest Stock Bonus Ex-Date,-,BLTZ
+9,Latest Dividend Bonus Factor (From 2008),-,BLTZ
+10,Latest Dividend Bonus Ex-Date,-,BLTZ

@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),23.22,PCAR
+1,Current PE Ratio (TTM),63.30,PCAR
+2,Forward PE Ratio,-,PCAR
+3,IHSG PE Ratio TTM (Median),8.47,PCAR
+4,Earnings Yield (TTM)(%),1.58%,PCAR
+5,Current Price to Sales (TTM),0.72,PCAR
+6,Current Price to Book Value,2.25,PCAR
+7,Current Price To Cashflow (TTM),0.05,PCAR
+8,Current Price To Free Cashflow (TTM),0.05,PCAR
+9,EV to EBIT (TTM),33.51,PCAR
+10,PEG Ratio,0.59,PCAR
+11,PEG Ratio (3yr),-1.36,PCAR
+12,PEG (Forward),-,PCAR

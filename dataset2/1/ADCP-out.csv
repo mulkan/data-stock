@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),23.06,ADCP
+1,Current PE Ratio (TTM),-,ADCP
+2,Forward PE Ratio,-,ADCP
+3,IHSG PE Ratio TTM (Median),-,ADCP
+4,Earnings Yield (TTM)(%),-,ADCP
+5,Current Price to Sales (TTM),-,ADCP
+6,Current Price to Book Value,0.73,ADCP
+7,Current Price To Cashflow (TTM),0.03,ADCP
+8,Current Price To Free Cashflow (TTM),0.03,ADCP
+9,EV to EBIT (TTM),-,ADCP
+10,PEG Ratio,-,ADCP
+11,PEG Ratio (3yr),-,ADCP
+12,PEG (Forward),-,ADCP

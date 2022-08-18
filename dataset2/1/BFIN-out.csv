@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),12.04,BFIN
+1,Current PE Ratio (TTM),13.55,BFIN
+2,Forward PE Ratio,-,BFIN
+3,IHSG PE Ratio TTM (Median),8.47,BFIN
+4,Earnings Yield (TTM)(%),7.38%,BFIN
+5,Current Price to Sales (TTM),4.65,BFIN
+6,Current Price to Book Value,2.46,BFIN
+7,Current Price To Cashflow (TTM),0.49,BFIN
+8,Current Price To Free Cashflow (TTM),0.49,BFIN
+9,EV to EBIT (TTM),9.09,BFIN
+10,PEG Ratio,0.22,BFIN
+11,PEG Ratio (3yr),-1.63,BFIN
+12,PEG (Forward),-,BFIN

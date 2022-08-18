@@ -1,0 +1,14 @@
+,0,1,3
+0,Current PE Ratio (Annualised),-,AMMS
+1,Current PE Ratio (TTM),-,AMMS
+2,Forward PE Ratio,-,AMMS
+3,IHSG PE Ratio TTM (Median),-,AMMS
+4,Earnings Yield (TTM)(%),-,AMMS
+5,Current Price to Sales (TTM),-,AMMS
+6,Current Price to Book Value,-,AMMS
+7,Current Price To Cashflow (TTM),-,AMMS
+8,Current Price To Free Cashflow (TTM),-,AMMS
+9,EV to EBIT (TTM),-,AMMS
+10,PEG Ratio,-,AMMS
+11,PEG Ratio (3yr),-,AMMS
+12,PEG (Forward),-,AMMS
